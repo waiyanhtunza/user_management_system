@@ -1,0 +1,19 @@
+{
+    "name": "za/project",
+    "type": "yes",
+    "autoload": {
+        "psr-4": {
+            "Za\\Project\\": "src/",
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "waiyanhtun"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}

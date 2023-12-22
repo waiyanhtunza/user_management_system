@@ -1,0 +1,14 @@
+{
+    "name": "waiyan/project",
+    "autoload": {
+        "psr-4": {
+            "Waiyan\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "waiyanhtun"
+        }
+    ],
+    "require": {}
+}
